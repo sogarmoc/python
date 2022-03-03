@@ -27,8 +27,23 @@ resto2 = y % m
 
 # Output de datos
 
-
-
+print('El valor de x: ', x )
+print('El valor de y: ', y )
+print('El valor de n: ', n )
+print('El valor de m: ', m )
+print('La suma de x+y: ', suma)
+print('La diferencia de x-y: ', resta)
+print('El producto X * Y: ', mult)
+print('El cociente X / Y: ', div)
+print('El resto X%Y: ', resto)
+print('La suma de N+M: ', suma1)
+print('La diferencia de N-M: ', resta1)
+print('El producto N*M: ', mult1)
+print('El cociente N/M: ', div1)
+print('El resto N%M: ', resto1)
+print('La suma de X+N: ', suma2)
+print('El cociente Y/M: ', div2)
+print('El resto Y%M: ', resto2)
 print('El doble de x: ', x * 2)
 print('El doble de y: ', y * 2)
 print('El doble de n: ', n * 2)
